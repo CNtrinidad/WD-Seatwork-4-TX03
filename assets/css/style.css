@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    background-image: url(https://www.hdwallpapers.in/download/white_clouds_blue_sky_building_aetna_anime_background_hd_anime_background-HD.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #000000d3;
+    color: #faf9f9;
+    padding: 1em;
+    text-align: center;
+    font-size: 16px;
+}
+
+main {
+    background-image: url;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2em;
+}
+
+section {
+    background-image: url();
+    background-color: #000000cb;
+    padding: 2em;
+    border: 1px solid #6e6d6d;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: #fff;
+}
+
+section h2{
+    font-size: 24px;
+}
+
+section p{
+    font-size: 18px;
+    padding: 10px 20px;
+}
+
+section li{
+    font-size: 15px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+nav li {
+    background-color: #000000;
+    border: 2px solid #6e6d6d;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-right: 10px;
+    padding: 10px;
+}
+
+nav a {
+    color: #feffff;
+    text-decoration: none;
+    letter-spacing: 2px;
+    padding: 10px 20px;
+}
+
+nav a:hover {
+    transition: 0.2s;
+    color: #23527c;
+}
