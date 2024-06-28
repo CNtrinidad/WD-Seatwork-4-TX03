@@ -43,7 +43,7 @@
       </ol>
     </li>
     <li>
-      <a href="#rule,-practices-and-principles">Rules, Practices and Principles</a>
+      <a href="#rule,-practices-and-principles">Deployment Link</a>
     </li>
     <li>
       <a href="#resources">Resources</a>
