@@ -57,14 +57,20 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
-The project is about Creating a Features Display Website showcasing distinct design layouts for different features using pure HTML and CSS.
+The project entails designing templates for product features. The goal is to learn how to create a unique template for these components.
+
+My website is simple, with minimal flashing animations. It mainly involves scrolling through several layouts. Despite its simplicity, the website has a clean and distinct style.
+
+
+I used HTML and CSS. I used html for the website's content and structure, and CSS for the design and layout of the contents to make them look clean..
 
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website
+- Hover Effects
+- Sticky Headers and Footers
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -76,6 +82,39 @@ The project is about Creating a Features Display Website showcasing distinct des
 - https://cntrinidad.github.io/WD-Seatwork-4-TX03/
 
 
+## Rules, Practices and Principles
+1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
+2. Do not rename any .html files; always use `index.html` as the filename.
+3. Place Files in their respective folders.
+4. All file naming are in camel case.
+   - Camel case is naming format where there is no white space in separation of each words, the first word is in all lower case while the succeding words first letter are in upper followed by lower cased letters.
+   - ex.: buttonAnimatedStyle.css
+5. Use only `External CSS`.
+6. Renaming of Pages folder names are a must, and relates to what it is doing or data it holding.
+7. File Structure to follow below.
+
+```
+WD-ProjectName
+└─ assets
+|   └─ css
+|   |   └─ style.css
+|   └─ img
+|   |   └─ fileWith.jpeg/.jpg/.webp/.png
+|   └─ js
+|       └─ script.js
+└─ pages
+|  └─ pageName
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  └─ js
+|     |     └─ script.js
+|     └─ index.html
+└─ index.html
+└─ readme.md
+```
 
 ## Resources
 
